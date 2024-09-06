@@ -1,0 +1,21 @@
+body {
+    background-color: #FFFAF0; 
+    font-family: 'Comic Sans MS', sans-serif; 
+}
+
+h1 {
+    color: #FF69B4; 
+    text-align: center;
+    margin-top: 50px;
+}
+
+.cat {
+    display: block;
+    margin: 50px auto;
+    width: 200px;
+    height: 200px;
+    background-image: url('https://placekitten.com/200/200'); 
+    background-size: cover;
+    border-radius: 50%; 
+    border: 5px solid #FF69B4; 
+}
